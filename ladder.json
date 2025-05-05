@@ -1,0 +1,41 @@
+[
+  {
+    "position": 1,
+    "team": "Storm",
+    "played": 9,
+    "won": 7,
+    "lost": 2,
+    "drawn": 0,
+    "byes": 1,
+    "pointsFor": 210,
+    "pointsAgainst": 160,
+    "differential": 50,
+    "points": 14
+  },
+  {
+    "position": 2,
+    "team": "Panthers",
+    "played": 9,
+    "won": 7,
+    "lost": 2,
+    "drawn": 0,
+    "byes": 1,
+    "pointsFor": 198,
+    "pointsAgainst": 140,
+    "differential": 58,
+    "points": 14
+  },
+  {
+    "position": 3,
+    "team": "Broncos",
+    "played": 9,
+    "won": 6,
+    "lost": 3,
+    "drawn": 0,
+    "byes": 1,
+    "pointsFor": 185,
+    "pointsAgainst": 150,
+    "differential": 35,
+    "points": 12
+  }
+]
